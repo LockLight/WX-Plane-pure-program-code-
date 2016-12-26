@@ -71,7 +71,7 @@ typedef enum : NSUInteger {
  当前按钮信息
 
  @param imageName 按钮名称
- @param rect 按钮结构体
+ @param rect 按钮大小
  @param offsetX X方向偏移量
  @param offsetY Y方向偏移量
  @param tag 按钮标签
